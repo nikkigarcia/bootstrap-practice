@@ -1,0 +1,15 @@
+.pic{
+  height: 300px;
+  width: 100%;
+}
+.nav{
+  background-color:purple;
+}
+.border{
+  border-style:double;
+  border-radius: 5px;
+  border-color: blue;
+}
+.lightblue{
+  background-color: lightblue;
+}
